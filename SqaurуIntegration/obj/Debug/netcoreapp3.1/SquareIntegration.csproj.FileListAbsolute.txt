@@ -1,0 +1,9 @@
+C:\Users\Allo\source\repos\Sqaure\SqaurуIntegration\bin\Debug\netcoreapp3.1\SquareIntegration.deps.json
+C:\Users\Allo\source\repos\Sqaure\SqaurуIntegration\bin\Debug\netcoreapp3.1\SquareIntegration.dll
+C:\Users\Allo\source\repos\Sqaure\SqaurуIntegration\bin\Debug\netcoreapp3.1\SquareIntegration.pdb
+C:\Users\Allo\source\repos\Sqaure\SqaurуIntegration\obj\Debug\netcoreapp3.1\SquareIntegration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allo\source\repos\Sqaure\SqaurуIntegration\obj\Debug\netcoreapp3.1\SquareIntegration.AssemblyInfoInputs.cache
+C:\Users\Allo\source\repos\Sqaure\SqaurуIntegration\obj\Debug\netcoreapp3.1\SquareIntegration.AssemblyInfo.cs
+C:\Users\Allo\source\repos\Sqaure\SqaurуIntegration\obj\Debug\netcoreapp3.1\SquareIntegration.csproj.CoreCompileInputs.cache
+C:\Users\Allo\source\repos\Sqaure\SqaurуIntegration\obj\Debug\netcoreapp3.1\SquareIntegration.dll
+C:\Users\Allo\source\repos\Sqaure\SqaurуIntegration\obj\Debug\netcoreapp3.1\SquareIntegration.pdb
